@@ -11,6 +11,7 @@ const App = () => {
 	return (
 		<View>
 			<Header headerText={'Albums'}/>
+			<AlbumList/>
 		</View>
 	)
 };
